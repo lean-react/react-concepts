@@ -1,8 +1,8 @@
 # React Concepts
 
-> Nachbau der **Main Concepts** aus der React Dokumentation. Link zum Einstieg [Hello World](https://reactjs.org/docs/hello-world.html).
+> Nachbau der **Main Concepts** aus der React Dokumentation. Link zum Einstieg: [Hello World](https://reactjs.org/docs/hello-world.html).
 
-0. Build Toolchain
+0. [Build Toolchain](https://github.com/lean-react/react-concepts)
 1. Hello World
 2. Introducing JSX
 3. Rendering Elements
