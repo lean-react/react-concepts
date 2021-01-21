@@ -3,3 +3,6 @@
 
 # Build output folder
 /dist/
+
+# Editor/IDE settings
+/.idea/
